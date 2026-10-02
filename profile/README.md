@@ -17,10 +17,12 @@ Build your foundations cleanly now, because you will inherit your own codebase n
 
 ### 📋 Student Onboarding & Setup Instructions
 
-To get started, follow this strict onboarding sequence. You can refer to the organization layout in the reference file image_bf8946.png to locate the necessary tabs (Overview, Repositories, Projects, Teams, etc.).
+To get started, follow this strict onboarding sequence. You can refer to the organization layout in the reference file to locate the necessary tabs (Overview, Repositories, Projects, Teams, etc.).
 
 #### Step 1: Accept Your Invitation
-Check your university email or GitHub notifications and accept the invitation to join this organization. Once inside, you will see the dashboard as depicted in image_bf8946.png.
+Check your university email or GitHub notifications and accept the invitation to join this organization. Once inside, you will see the dashboard as depicted on the screenshot.
+
+![Organization Dashboard](image_bf8946.png)
 
 #### Step 2: Form Your Enterprise Team
 1. Navigate to the **Teams** tab at the top of the organization page.
