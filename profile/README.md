@@ -1,6 +1,6 @@
 # 🏢 Welcome to UIC CCS WEB DEVELOPMENT 2026-2027
 
-**Course:** CS008.23 - Web Applications Development 1 
+**Course:** CS008.23 - Web Applications Development 1
 **Instructor:** Mr. Joshua M. Cister  
 **Organization Goal:** Enterprise Software Development Simulation  
 
